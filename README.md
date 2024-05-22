@@ -19,7 +19,7 @@
 ### What is TangLike?
 [**TangLike**](https://github.com/RozhakXD/TangLike) is a tools to make it easier for us to get likes on Facebook posts for free. This tools is equipped with a function to solve captcha codes so that we don't have to do it manually. One account only has 10 attempts per day to send likes, you can use another account if you want to send likes again.
 
-You can get 50 to 100 likes in 15 minutes. The number of likes can decrease if there are not many users. 
+You can get 100 to 50 likes in less than 5 minutes and you are also limited to every 15 minutes for sending the next like.
 
 ### Termux command?
 First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) to run this script and for how to use it can be seen on [**Youtube**](https://www.youtube.com/rozhakid). Then you enter this command into termux!
@@ -56,7 +56,7 @@ $ python Run.py
 ##
 
 ### Screenshot?
-![Image](https://github.com/RozhakXD/TangLike/assets/65714340/39d2867a-226f-48ab-aea7-5634f672be2b)
+![Images](https://github.com/RozhakXD/TangLike/assets/65714340/7299c82b-af9f-4437-9e2e-4f1c380cce4a)
 
 ##
 ```python
