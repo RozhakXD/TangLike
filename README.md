@@ -56,7 +56,7 @@ $ python Run.py
 ##
 
 ### Screenshot?
-![Images](https://github.com/RozhakXD/TangLike/assets/65714340/7299c82b-af9f-4437-9e2e-4f1c380cce4a)
+![Images](https://github.com/RozhakXD/TangLike/assets/65714340/146fb134-96a2-4f8c-8f16-2f428887c217)
 
 ##
 ```python
