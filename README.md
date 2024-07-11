@@ -22,7 +22,7 @@
 You can get 100 to 50 likes in less than 5 minutes and you are also limited to every 15 minutes for sending the next like.
 
 ### Termux command?
-First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) to run this script and for how to use it can be seen on [**Youtube**](https://www.youtube.com/rozhakid). Then you enter this command into termux!
+First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) to run this script and for how to use it can be seen on [**Youtube**](https://youtu.be/p70DemPTw18). Then you enter this command into termux!
 
 ```
 $ apt update -y && apt upgrade -y
