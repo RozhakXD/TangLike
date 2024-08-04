@@ -204,10 +204,10 @@ class BYPASS:
 
 if __name__ == '__main__':
     try:
-        if os.path.exists("Penyimpanan/Subscribe.json") == False:
+        if os.path.exists("Penyimpanan/Youtube.json") == False:
             youtube_url = json.loads(requests.get('https://raw.githubusercontent.com/RozhakXD/TangLike/main/Penyimpanan/Subscribe.json').text)['Link']
             os.system(f'xdg-open {youtube_url}')
-            with open('Penyimpanan/Subscribe.json', 'w') as w:
+            with open('Penyimpanan/Youtube.json', 'w') as w:
                 w.write(json.dumps({
                     "Status": True
                 }))
